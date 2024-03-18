@@ -1,4 +1,4 @@
- <h1>Smart UI Testing With GitHub</h1>
+ <h1>Smart UI Testing With GitHub </h1>
 
 <img height="400" src="https://user-images.githubusercontent.com/126776938/232716259-60606fe2-d9ed-4449-9586-321a5950308e.png">
 
@@ -8,6 +8,7 @@
   <a href="https://www.lambdatest.com/support/docs/?utm_source=github&utm_medium=repo&utm_campaign=playwright-sample" target="_bank">Docs</a>
   &nbsp; &#8901; &nbsp;
   <a href="https://www.lambdatest.com/learning-hub/?utm_source=github&utm_medium=repo&utm_campaign=playwright-sample" target="_bank">Learning Hub</a>
+  
   &nbsp; &#8901; &nbsp;
   <a href="https://www.lambdatest.com/newsletter/?utm_source=github&utm_medium=repo&utm_campaign=playwright-sample" target="_bank">Newsletter</a>
   &nbsp; &#8901; &nbsp;
